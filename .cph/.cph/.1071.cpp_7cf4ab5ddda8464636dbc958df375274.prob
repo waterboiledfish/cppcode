@@ -1,0 +1,1 @@
+{"name":"Local: 1071","url":"e:\\cppcode\\.cph\\1071.cpp","tests":[{"id":1772898718399,"input":"2\nA\nA,Bx y@12\n","output":"1/4\n1/3\n"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"e:\\cppcode\\.cph\\1071.cpp","group":"local","local":true}
