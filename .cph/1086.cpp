@@ -1,1 +1,3 @@
-#include<iosr
+#include<iostream>
+#include<vector>
+#
