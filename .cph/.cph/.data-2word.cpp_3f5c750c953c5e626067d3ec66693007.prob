@@ -1,0 +1,1 @@
+{"name":"Local: data-2word","url":"e:\\cppcode\\.cph\\data-2word.cpp","tests":[{"id":1773140099035,"input":"1 2 3 -1","output":"3 2 1"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"e:\\cppcode\\.cph\\data-2word.cpp","group":"local","local":true}

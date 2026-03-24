@@ -1,0 +1,1 @@
+{"name":"Local: 1063","url":"e:\\cppcode\\.cph\\1063.cpp","tests":[{"id":1773565504008,"input":"2\nabcdefghigklmnopqrstuvwxyz\ntest\n","output":"0102030405060708090711121314151617181920212223242526\n20051920\n"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"e:\\cppcode\\.cph\\1063.cpp","group":"local","local":true}

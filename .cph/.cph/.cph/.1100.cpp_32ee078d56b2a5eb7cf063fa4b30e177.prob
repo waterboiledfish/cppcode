@@ -1,0 +1,1 @@
+{"name":"Local: 1100","url":"e:\\cppcode\\.cph\\.cph\\1100.cpp","tests":[{"id":1774188777794,"input":"3\n5\n15\n24\n","output":"7\n22\n35\n"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"e:\\cppcode\\.cph\\.cph\\1100.cpp","group":"local","local":true}
